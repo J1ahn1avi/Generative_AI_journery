@@ -1,0 +1,6 @@
+employee_id,employee_name,email,department,salary
+101,Alice,alice@gmail.com,Sales,50000
+102,Bob,bob@gmail.com,Marketing,55000
+103,Charlie,charlie@gmail.com,IT,60000
+104,Diana,diana@gmail.com,HR,52000
+105,Eve,eve@gmail.com,Finance,58000
